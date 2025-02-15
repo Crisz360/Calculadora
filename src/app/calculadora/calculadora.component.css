@@ -1,0 +1,50 @@
+.text-center {
+    text-align: center !important;
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: Helvetica;
+    background-color: #6f42c1;
+    border-radius: 1.5rem;
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    border-bottom: 1px solid #6f42c1;
+  }
+
+  .text-center:hover {
+    background-color: #5a2d99;
+  }
+
+  .calc.col-sm-4.p-2.m-0.bg-inverse {
+    border-radius: 1.25rem !important;
+    margin: 0px auto !important;
+    background-color: #FFF !important;
+    padding: 2rem 3rem !important;
+    margin: auto !important;
+    border-radius: 2.5rem !important;
+    box-shadow: 0px 10px 15px rgba(109, 56, 194, 0.2), 0px 4px 6px rgba(109, 56, 194, 0.2) !important;
+    color: black !important;
+    margin-top: 10rem !important;
+  }
+
+  .btn.btn-outline-danger.col-sm-6 {
+    border-radius: 1rem;
+    font-weight: bold;
+  }
+
+  .btn.btn-outline-warning.col-sm-3 {
+    border-radius: 1rem;
+    font-weight: bold;
+  }
+
+  .btn.btn-outline-secondary.col-sm-3 {
+    border-radius: 1rem;
+    font-weight: bold;
+  }
+
+  .btn.btn-lg.btn-secondary.col-sm-3.p-1 {
+    border-radius: 1rem;
+  }
+
+  .btn.btn-lg.btn-outline-success.col-sm-6.p-1 {
+    border-radius: 1rem;
+  }
